@@ -300,7 +300,7 @@ header {
 main {
 
   section {
-    padding: 4rem 0;
+    padding: 5rem 0;
 
     .section-heading {
       text-align: center;
@@ -311,8 +311,8 @@ main {
       @include mobile-xs {
         padding-top: 10rem !important;
       }
-      padding-top: 3rem !important;
-      // margin-top: -2rem;
+      padding-top: 6rem !important;
+     // margin-top: 2rem !important;
 
       .about-container {
         width: 95%;

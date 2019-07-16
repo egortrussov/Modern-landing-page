@@ -349,7 +349,7 @@ header .header-info .btn-submit {
 }
 
 main section {
-  padding: 4rem 0;
+  padding: 5rem 0;
 }
 
 main section .section-heading {
@@ -359,7 +359,7 @@ main section .section-heading {
 }
 
 main section#about {
-  padding-top: 3rem !important;
+  padding-top: 6rem !important;
 }
 
 @media (max-width: 321px) {
