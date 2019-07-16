@@ -12,6 +12,7 @@ html {
 
 body {
   font-family: 'Nunito', sans-serif;
+  font-size: 16px;
   overflow-x: hidden;
   scroll-behavior: smooth;
 }
@@ -94,8 +95,8 @@ header {
     height: 730px !important;
     max-height: 730px;
   }
-  height: fit-content;
-  height: 110vh;
+  min-height: 110vh;
+  height: auto;
 
   .head {
     grid-area: head;
