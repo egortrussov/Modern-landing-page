@@ -122,6 +122,7 @@ header {
   header {
     height: 730px !important;
     max-height: 730px;
+    min-height: 730px;
   }
 }
 
